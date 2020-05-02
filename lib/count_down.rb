@@ -1,5 +1,5 @@
-count = 10 
-while count <= 10 do 
+count = 11 
+while count <= 11 do 
   break if count == 0 
   puts " #{count}" 
   count = count - 1 
